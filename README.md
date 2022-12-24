@@ -35,7 +35,7 @@ python GeraEscala.py
 - Website: https://wesleyallan.github.io/myPage
 - Twitter: [@Wesley_AllanS](https://twitter.com/Wesley_AllanS)
 - Github: [@wesleyallan](https://github.com/wesleyallan)
-- LinkedIn: [@wesley-silva-229724208](https://linkedin.com/in/wesley-silva-229724208)
+- LinkedIn: [@wwesleyallan](https://linkedin.com/in/wesleyallan)
 
 ## Mostre seu apoio
 
