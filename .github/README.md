@@ -1,4 +1,18 @@
-<h1 align="center">Bem Vindo ao Gerador de Escala 👋</h1>
+<h1 align="center">
+  <img src="hi.gif" alt="Mão acenando" width="30px" />
+  Bem Vindo ao Gerador de Escala
+</h1>
+
+<p align="center">
+Gerador de escala em _Python_, com opções de <strong>entrada</strong> e <strong>remoção</strong> de participantes, <strong>sorteio</strong> e <strong>exportação</strong> em arquivo CSV com escolha do usuário sobre o tempo em dias, removendo sábados e domingos automaticamente.
+</p>
+
+<div align="center">
+  <img src="./gerador-escala.jpg" alt="Exemplo de uso do gerador de escala" />
+</div>
+
+<br />
+
 <p align="center">
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
   <a href="#" target="_blank">
@@ -9,9 +23,7 @@
   </a>
 </p>
 
-> Gerador de escala em _Python_, com opções de **entrada** e **remoção** de participantes, **sorteio** e **exportação** em arquivo CSV com escolha do usuário sobre o tempo em dias, removendo sábados e domingos automaticamente.
-
-## Instalação
+## 📨 Instalação
 
 Por se tratar de uma linguagem interpretada basta clonar o repositório no Github.
 
@@ -19,7 +31,7 @@ Por se tratar de uma linguagem interpretada basta clonar o repositório no Githu
 git clone https://github.com/wesleyallan/geradorescala
 ```
 
-## Executar
+## ⚙️ Executar
 
 Com **Python** instalado na maquina, basta acessar a pasta e iniciar com o interpretador do python e navegador pelo menu da aplicação.
 
@@ -32,10 +44,10 @@ python GeraEscala.py
 
 👤 **Wesley Silva**
 
-- Website: https://wesleyallan.github.io/myPage
+- Website: [wesleyallan.dev](https://wesleyallan.dev)
 - Twitter: [@Wesley_AllanS](https://twitter.com/Wesley_AllanS)
 - Github: [@wesleyallan](https://github.com/wesleyallan)
-- LinkedIn: [@wwesleyallan](https://linkedin.com/in/wesleyallan)
+- LinkedIn: [@wesleyallan](https://linkedin.com/in/wesleyallan)
 
 ## Mostre seu apoio
 
